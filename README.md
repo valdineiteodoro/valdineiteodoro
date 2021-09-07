@@ -1,6 +1,7 @@
 - 👋 Hi, Eu sou o valdine teodoro  
 - 👨‍💻 I’m interestedlearn more about Front-on development
 - 💻 I’m currently learning HTML/CSS/JS 
+- 🙏 Thank you for visiting come back when you can / Obrigado pela visita volte quando der.
 
  <div>
  
