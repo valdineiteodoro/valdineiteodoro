@@ -1,6 +1,6 @@
-- 👋 Hi, Eu sou o valdinei teodoro  
+- 👋 Hi, Eu sou o Valdinei Teodoro  
 - 👨‍💻 I’m interestedlearn more about Front-on development
-- 💻 I’m currently learning HTML/CSS/JS/React Js
+- 💻 I’m currently learning HTML/CSS/JS/React Js/TypeScript
 - 🙏 Thank you for visiting come back when you can / Obrigado pela visita volte quando der.
 
  <div>
