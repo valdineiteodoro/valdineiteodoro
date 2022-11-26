@@ -1,29 +1,18 @@
-- 👋 Hi, Eu sou o Valdinei Teodoro  
-- 👨‍💻 I’m interestedlearn more about Front-on development
-- 💻 I’m currently learning HTML/CSS/JS/React Js/TypeScript
-- 🙏 Thank you for visiting come back when you can / Obrigado pela visita volte quando der.
+# 💫 About Me:
+👋 Hi, Eu sou o Valdinei Teodoro<br>👨‍💻 I’m interestedlearn more about Front-on development<br>💻 I’m currently learning HTML/CSS/JS/React Js/TypeScript<br>🙏 Thank you for visiting come back when you can / Obrigado pela visita volte quando der.
 
- <div>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdineiteodoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-   
-</div>
 
-  
-<div style="display: inline_block"><br>
- <img align="center" alt="teo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="teo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="teo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
-<br>
-   <div>
-   <a href="https://api.whatsapp.com/send?phone=5567981323706&text=Vim%20Atravez%20do%20GitHub%20!/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/v.teodoro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:theodoro.vts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/valdinei-teodoro-547a0b166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
- 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/v.teodoro_/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valdinei-teodoro-547a0b166/) 
 
-  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=valdineiteodoro&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=valdineiteodoro&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=valdineiteodoro&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=valdineiteodoro&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
